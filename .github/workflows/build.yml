@@ -30,4 +30,3 @@ jobs:
 
             - name: Test solution
               run: dotnet test --no-build --configuration ${{ env.BUILD_CONFIGURATION }} ${{ env.SOLUTION_FILE }}
-              continue-on-error: true
