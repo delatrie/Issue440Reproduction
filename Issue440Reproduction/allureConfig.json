@@ -1,0 +1,7 @@
+﻿{
+  "specflow": {
+    "stepArguments": {
+      "convertToParameters": true
+    }
+  }
+}
